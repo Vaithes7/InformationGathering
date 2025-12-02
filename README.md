@@ -37,31 +37,36 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### nmap :
 
-<img width="724" height="558" alt="Screenshot 2025-11-14 135058" src="https://github.com/user-attachments/assets/f4010378-06cc-4dcf-859b-abb1b9667a1c" />
+<img width="802" height="733" alt="Screenshot 2025-12-02 115438" src="https://github.com/user-attachments/assets/239d3635-85d0-45e6-bc20-b35a753bdbc6" />
+
 
 ### whatweb :
 
-<img width="1438" height="226" alt="Screenshot 2025-11-14 135237" src="https://github.com/user-attachments/assets/04828460-d9a7-4635-9bcf-bd0d69ad70c3" />
+<img width="806" height="361" alt="image" src="https://github.com/user-attachments/assets/80ba4cf3-d3cc-4ae8-8ca7-3518c9f88748" />
+
 
 ### traceroute :
 
-<img width="1110" height="735" alt="Screenshot 2025-11-14 135459" src="https://github.com/user-attachments/assets/e606e0f9-71d4-4886-a21a-a99c3e38b3db" />
+<img width="1315" height="987" alt="Screenshot 2025-12-01 222224" src="https://github.com/user-attachments/assets/43ea43a8-7267-4c11-b5a1-53efd282e568" />
+
 
 ### ping :
+<img width="916" height="669" alt="Screenshot 2025-12-01 222633" src="https://github.com/user-attachments/assets/d291d574-f9a1-49ec-ba41-c7d8256b0db4" />
 
-<img width="1109" height="655" alt="Screenshot 2025-11-14 135716" src="https://github.com/user-attachments/assets/563f80b1-d4cb-4bd3-a014-c50f495f191e" />
 
 ### netcat :
 
-<img width="797" height="97" alt="Screenshot 2025-11-14 135843" src="https://github.com/user-attachments/assets/c19bbc38-e6f2-4b88-8fdc-8cfaa1540582" />
+<img width="817" height="662" alt="Screenshot 2025-12-02 114546" src="https://github.com/user-attachments/assets/a88cdf9e-96ed-4a76-898c-bfa5ad07f679" />
 
 ### UDP traceroute :
+<img width="810" height="731" alt="Screenshot 2025-12-02 114821" src="https://github.com/user-attachments/assets/c091932c-e270-4fd0-91b5-e979692c298f" />
 
-<img width="970" height="332" alt="Screenshot 2025-11-14 140938" src="https://github.com/user-attachments/assets/da6ae627-5f1e-478f-9d9e-e818da77a9f3" />
+
 
 ### ICMP traceroute :
+<img width="805" height="730" alt="Screenshot 2025-12-02 114952" src="https://github.com/user-attachments/assets/fc9c3afb-8986-474f-b678-b7faa2193739" />
 
-<img width="974" height="573" alt="Screenshot 2025-11-14 140952" src="https://github.com/user-attachments/assets/e2d96b79-bd1d-4daf-b418-4643aeee2c2f" />
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
